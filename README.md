@@ -16,5 +16,5 @@ Paradigm: Object-Oriented Programming
 IDE: Eclipse (sometimes JDoodle for quick testing)  
 
 🧠 Philosophy  
-Learning to code isn’t just syntax, it’s about designing systems that feel alive.  
+You'll never Code alone   
   
