@@ -1,7 +1,7 @@
-Java OOP Assignments – Netanya Academic College  
+Java OOP Assignments- Netanya Academic College  
 
 Welcome to my little code arena.  
-Each folder here is a mission from the Object-Oriented Programming course — written in pure Java and tested in the wild.
+Each folder here is a mission from the Object-Oriented Programming course- written in pure Java and tested in the wild.
 
 💾 Mission Log  
 Assignment	Focus	Status  
