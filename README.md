@@ -17,4 +17,4 @@ IDE: Eclipse (sometimes JDoodle for quick testing)
 
 🧠 Philosophy  
 Learning to code isn’t just syntax, it’s about designing systems that feel alive.  
-Every project here started as a bug-infested swamp and slowly evolved into something that compiles on the first try.  
+  
