@@ -13,7 +13,7 @@ Assignment	Focus	Status
 Tech Stack  
 Language: Java ☕  
 Paradigm: Object-Oriented Programming  
-IDE: Eclipse (sometimes JDoodle for quick testing)  
+IDE: Eclipse   
 
 Philosophy  
 You'll never Code alone   
